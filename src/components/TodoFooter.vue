@@ -8,13 +8,14 @@
 export default {
     methods: {
         clearTodo() {
-            localStorage.clear();
+          
+           this.$emit('clearTodo');
         }
     }
 }
 </script>
 
-<style>
+<style scoped>
     .clearAllContainer {
         width: 8.5rem;
         height: 50px;

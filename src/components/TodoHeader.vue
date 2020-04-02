@@ -1,17 +1,20 @@
 <template>
     <header>
         <h1>ToDo It!!</h1>
+        
     </header>
   
 </template>
 
 <script>
 export default {
+  
+
 
 }
 </script>
 
-<style >
+<style scoped>
 
     h1 {
         color: #2F3B52;
