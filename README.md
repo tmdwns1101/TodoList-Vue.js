@@ -1,4 +1,4 @@
-# vue-todu
+# vue-todo
 
 TodoList with Vue.js!
 
